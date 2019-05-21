@@ -36,7 +36,7 @@ is part of the standard python library.
 
 # Examples
 
-There is examples on how to create some of the common elements in markdown in
+There are examples on how to create some of the common elements in markdown in
 example.md. If you want to see how they look execute present.sh and go to
 http://localhost:8000/example.html
 
