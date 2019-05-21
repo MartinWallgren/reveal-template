@@ -1,0 +1,29 @@
+/* Remove reveal.js borders from images*/
+.reveal section img {
+  background: none;
+  border: none;
+  box-shadow: none;
+}
+
+/* Prevent uppercase titles */
+.reveal h1,
+.reveal h2,
+.reveal h3,
+.reveal h4,
+.reveal h5,
+.reveal h6 {
+  text-transform: unset;
+}
+
+.logo {
+  width: 158px;
+  height: 57px;
+  position: absolute;
+  top: 30px;
+  right: 30px;
+}
+
+.styling-example {
+  width: 10%;
+  height: 10%;
+}
